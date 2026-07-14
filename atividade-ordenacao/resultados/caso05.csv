@@ -2,9 +2,6 @@ n,metodo,tempo_us
 10000,selecao,96362
 10000,insercao,386056
 10000,merge,0
-100000,selecao,9955590
-100000,insercao,40141258
-100000,merge,70301
 20000,selecao,391811
 20000,insercao,1584944
 20000,merge,0
@@ -29,3 +26,6 @@ n,metodo,tempo_us
 90000,selecao,8092787
 90000,insercao,32499180
 90000,merge,46914
+100000,selecao,9955590
+100000,insercao,40141258
+100000,merge,70301
